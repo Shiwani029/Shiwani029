@@ -7,7 +7,7 @@
 ### 💬 Ask Me About:
 - JavaScript | Java | MongoDB | Full Stack Development
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Shiwani029&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
